@@ -27,6 +27,7 @@ input.d-flex {
 .nav-link {
 	color: black;
 }
+
 a:hover {
     color: orange; /* Цвет ссылки при наведении */ 
     text-decoration: underline; /* Добавляем подчёркивание */
